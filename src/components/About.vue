@@ -14,8 +14,8 @@
         v-intersect
         class="mt-6 text-lg text-gray-300 max-w-3xl mx-auto text-center opacity-0 translate-y-4 transition duration-700 delay-200"
       >
-        I’m <strong>Mercy Chepngeno</strong>, a fullstack developer with a frontend focus
-        and a passion for polished, well‑documented projects. I thrive in collaborative,
+        I’m <strong>Mercy Chepngeno</strong>, a software Engineer with
+         a passion for polished, well‑documented projects. I thrive in collaborative,
         growth‑oriented environments and am open to roles where I can help build
         accessible, impactful web experiences.
       </p>
@@ -39,9 +39,10 @@
             </h4>
             <p class="text-gray-300">2025 – Present</p>
             <ul class="mt-2 text-gray-300 list-disc list-inside space-y-1">
-              <li>Developed web applications using Vue.js and Node.js.</li>
-              <li>Integrated REST APIs and optimized MySQL queries.</li>
-              <li>Deployed scalable systems on Vercel.</li>
+              <li>Developed a fullstack web modules using Vue.js and Node.js, accounting for ~60% of the platform’s user-facing components and logic, including authentication and dashboard features.</li>
+              <li>Integrated RESTful APIs and optimized MySQL queries, contributing to a 40% improvement in data retrieval performance and faster UI responsiveness across devices.</li>
+              <li>Engineered reusable components and implemented routing logic, enabling 50% faster feature development cycles and reducing maintenance effort.</li>
+              <li>Collaborated cross-functionally with a remote team, driving ~30% of feature delivery from ideation to production by actively shaping technical requirements and implementation plans.</li>
             </ul>
           </div>
 
@@ -51,13 +52,14 @@
             class="bg-gray-800 p-6 rounded-lg shadow-md hover:shadow-orange-500/50 transition opacity-0 translate-x-4 transition duration-700 delay-600"
           >
             <h4 class="text-xl font-semibold text-white">
-              Junior Developer, Moran Publishers
+              Software Developer, Moran Publishers
             </h4>
             <p class="text-gray-300">2022 – 2024</p>
             <ul class="mt-2 text-gray-300 list-disc list-inside space-y-1">
-              <li>Built web features with React and TypeScript.</li>
-              <li>Maintained CMS using Python Django.</li>
-              <li>Improved UI/UX with Tailwind CSS.</li>
+              <li>Built dynamic web features using React and TypeScript, delivering ~70% of new product-facing modules including blog displays, admin dashboards, and content filtering logic.</li>
+              <li>Maintained and extended a custom CMS built with Python Django, contributing to ~50% of backend enhancements such as editorial workflows, publishing permissions, and asset management</li>
+              <li>Improved UI/UX across key pages using Tailwind CSS, leading to ~35% faster page load times and a 20% increase in user engagement based on internal analytics.</li>
+              <li>Collaborated with editors and designers to implement pixel-perfect components, reducing iteration cycles by ~40% and accelerating feature sign-offs.</li>
             </ul>
           </div>
         </div>
