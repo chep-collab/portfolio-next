@@ -18,7 +18,7 @@
         class="mt-8 flex flex-col sm:flex-row flex-wrap justify-center md:justify-start items-center gap-4 animate-scale-in delay-400"
       >
         <a
-          href="/assets/resume.pdf"
+          href="/resume.pdf"
           download
           class="bg-orange-500 text-white px-6 py-3 rounded-md hover:bg-orange-600 shadow hover:scale-105 font-semibold transition text-sm sm:text-base"
         >
